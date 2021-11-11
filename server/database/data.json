@@ -1,0 +1,58 @@
+[
+ {
+  "id": 1,
+  "createdAt": "2021-08-04T11:13:51.307Z",
+  "updatedAt": "2021-08-04T11:33:25.191Z",
+  "organization": "node",
+  "products": [
+   "developers",
+   "pizza"
+  ],
+  "marketValue": "100",
+  "address": "lagos",
+  "ceo": "cn",
+  "country": "Taiwan",
+  "noOfEmployees": 2,
+  "employees": [
+   "james bond",
+   "jackie chan"
+  ]
+ },
+ {
+  "organization": "node ninja",
+  "cretaedAt": "2021-08-04T11:12:54.245Z",
+  "updatedAt": "2021-08-04T11:12:54.245Z",
+  "products": [
+   "developers",
+   "pizza"
+  ],
+  "marketValue": "90%",
+  "address": "sangotedo",
+  "ceo": "cn",
+  "country": "Taiwan",
+  "noOfEmployees": 2,
+  "employees": [
+   "james bond",
+   "jackie chan"
+  ],
+  "id": 2
+ },
+ {
+  "id": 3,
+  "updatedAt": "2021-08-08T11:31:08.690Z",
+  "organization": "decagon",
+  "products": [
+   "developers",
+   "pizza"
+  ],
+  "marketValue": "50",
+  "address": "lagos",
+  "ceo": "cn2",
+  "country": "Taiwan",
+  "noOfEmployees": 2,
+  "employees": [
+   "james bond",
+   "jackie chan"
+  ]
+ }
+]
