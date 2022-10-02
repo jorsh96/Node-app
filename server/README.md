@@ -1,1 +1,1 @@
-A basic bare bone node app
+A basic EXPRESS-TS setup
